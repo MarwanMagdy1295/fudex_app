@@ -1,0 +1,28 @@
+{
+  "products_screen": {
+    "products": "سجل المنتجات",
+    "search": "بحث",
+    "department": "القسم",
+    "rs": "رس",
+    "add_product": "إضافة منتج",
+    "active_product": "تفعيل المنتج"
+  },
+  "add_new_product_screen": {
+    "add_product": "إضافة منتج",
+    "edit_product": "تعديل",
+    "main_image": "الصورة الاساسية",
+    "image_size": "(لا يجب أن يتجاوز مساحة 2.5 MB)",
+    "product_name": "اسم المنتج",
+    "product_images": "صور المنتج",
+    "department": "القسم الرئيسى",
+    "second_department": "القسم الفرعى",
+    "product_price": "سعر المنتج",
+    "extra": "اضافات",
+    "product_color": " تحديد اللون",
+    "product_size": " تحديد المقاس ",
+    "product_case": "حالة المنتج",
+    "product_words": "الكلمات الدالة على المنتج",
+    "product_discreption": "وصف المنتج",
+    "save": "حفظ"
+  }
+}

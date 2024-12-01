@@ -1,0 +1,28 @@
+{
+  "products_screen": {
+    "products": "Products",
+    "search": "Search",
+    "department": "Department",
+    "rs": "RS",
+    "add_product": "Add Product",
+    "active_product": "Activate the Product"
+  },
+  "add_new_product_screen": {
+    "add_product": "Add Product",
+    "edit_product": "Edit",
+    "main_image": "main Image",
+    "image_size": "(لا يجب أن يتجاوز مساحة 2.5 MB)",
+    "product_name": "Product Name",
+    "product_images": "Product Images",
+    "department": "Main Department",
+    "second_department": "Secondary Department",
+    "product_price": "Product Price",
+    "extra": "Extra",
+    "product_color": " Color",
+    "product_size": " Size ",
+    "product_case": "Product Case",
+    "product_words": "Related Words",
+    "product_discreption": "Product Discreation",
+    "save": "Save"
+  }
+}
